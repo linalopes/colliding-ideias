@@ -1,0 +1,9 @@
+---
+<start>: <5-line> % <7-line> % <5-line> % <5-line>
+<5-line>: <1> <4> |<1> <3> <1> |<1> <4> <3> | <1> <2> <2> | <1> <2> <1> <3> | <1> <1> <2> <1> | <1> <1> <1> <2> | <1> <1> <1> <1> <1> | <2> <3> | <2> <2> <1> | <2> <1> <2> | <2> <1> <1> <1> | <3> <2> | <3> <1> <1> | <4> <1> | <5> | <1> <4>
+<7-line>: <1> <1> <5-line> | <2> <5-line> | <5-line> <1> <1> | <5-line> <2>
+<1>: ter | já | pop | eu | queer | rua | voz | sem | uma | do eu | sai | meu | não | som | até | com | avó | bisa | tenho | mora | atua | gosta | desfez
+<2>: pronta | fazer | antes | o campo | do erro | sexo | pêra | cedo | texto | poesia | linhas | calor | queimar | possa | onde | fase | mito | arte | vidro | brinco | cílios | copo | entra | redes | pintar o | deusas | olhos | balé | époxi
+<3>: difícil  | a ideia  | espuma | mistério | descrição | cachimbo | censura | cinema | desenho | poema | falta sol | coração | velinha | tragável | silêncio | acesso | castigo | cuidado | balanço | ruído | cadência | cidade | ausência | protegem | transborda | matéria | música | refração | desenho | encontro |  cigarro | difícil
+<4>: expansível | performance | plataforma | expandido |  indígena | protótipo | fabulação | tolerável | homenagem | etiqueta | narrativas | memória | patrimônio | narrativa | práticas
+<5>: da materialidade | caixa de algo | sintetizador | sexualidade | organicidade | óleo marcador | corpo de rosa | desprendimento | cenários pintados | estratégia e jogo | retroalimentação | comunicação | a vida do metal | ancestralidade | postiços falsos | este objeto é | concurso de beleza | apartamento | delicioso | senso de humor | afeto com cinzeiro | metodologias

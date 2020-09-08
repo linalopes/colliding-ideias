@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Prompt:wght@300;400;700;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Taviraj:wght@300;400;700;900&display=swap');
+
+body {
+    background-color: rgb(221, 50, 36);
+    color: white;
+    font-family: 'Prompt', sans-serif;
+    font-size: 30px;
+    text-align: center;
+}
+
+h1{
+    font-family: 'Taviraj', serif;
+    font: uppercase;
+}
+div {
+    margin-top: 100px;
+}
